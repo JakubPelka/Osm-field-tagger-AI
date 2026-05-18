@@ -183,7 +183,7 @@ The first prototype should be intentionally small.
 ### Included
 
 - iOS app prototype in Swift / SwiftUI
-- photo selection or camera capture
+- live camera capture as the primary workflow, with file/photo import only as fallback.
 - current location / map view
 - editable pin
 - local tag proposal engine
